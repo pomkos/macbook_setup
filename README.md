@@ -2,7 +2,8 @@
 
 A list of convenience and productivity apps installed and used daily
 
-## Brew code
+## Apps
+### Brew code
 
 ```
 brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
@@ -12,7 +13,7 @@ spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp
 brew install magic-wormhole
 ```
 
-## Not in brew
+### Not in brew
 
 inshot
 just focus
@@ -22,7 +23,7 @@ quicknote
 routine
 vn video editor
 
-## All apps:
+### All apps:
 
 * [Alt Tab](https://github.com/lwouis/alt-tab-macos) `#convenience`
 * [Bitwarden](https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12) `#life`
@@ -58,3 +59,12 @@ vn video editor
 * [warp](https://www.warp.dev/) `#dev`
 * [wormhole](https://er.run/) `#life`
 
+## Settings
+
+* Hot Corners: bottom right mission control, bottom left quick notes
+* Trackpad: tap to click
+* Tracking speed: fast-2.5 bars
+* General Appearance: auto
+* Dock: auto hide
+* Clock in menubar: never show date; analog
+* Battery: show percentage
