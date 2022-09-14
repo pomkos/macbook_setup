@@ -5,7 +5,9 @@ A list of convenience and productivity apps installed and used daily
 ## Brew code
 
 ```
-brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 itsycal jamovi kindle meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
+brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
+itsycal jamovi kindle meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc 
+spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
 
 brew install magic-wormhole
 ```
