@@ -11,7 +11,7 @@ A list of convenience and productivity apps installed and used, many found thank
 
 ```
 brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
-itsycal jamovi kindle krisp meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc 
+itsycal jamovi kindle krisp meetingbar microsoft-office microsoft-teams nextcloud nightowl obsidian openinterminal penc 
 shottr spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
 
 brew install magic-wormhole
@@ -51,7 +51,8 @@ vn video editor
 | [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)| customize Logi Anywhere 3 mouse actions| `#convenience`
 | [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12)| shortcut your next meeting in the statusbar| `#convenience` 
 | [MenubarX](https://apps.apple.com/us/app/menubarx/id1575588022?mt=12)| add websites to the statusbar| `#convenience` 
-| [Microsoft Office](https://www.microsoft.com/en-US/microsoft-365/mac/microsoft-365-for-mac)| |`#life`
+| [Microsoft Office]( https://www.microsoft.com/en-US/microsoft-365/mac/microsoft-365-for-mac)| |`#life`
+| [Microsoft Teams]()|https://www.microsoft.com/en-us/microsoft-teams/download-app#desktopAppDownloadregion| `#dev`
 | [Nextcloud](https://nextcloud.com/install/#install-clients)| google docs, but open source and synced to your own server| `#life` 
 | [Night Owl](https://nightowl.kramser.xyz/#)| control nightshift and darkmode on a schedule and app basis| `#convenience` 
 | [Obsidian](https://obsidian.md/)| open source notion alternative using markdown files| `#life` 
