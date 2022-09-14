@@ -75,3 +75,7 @@ vn video editor
 * Dock: auto hide
 * Clock in menubar: never show date; analog
 * Battery: show percentage
+
+## Todo
+
+Integrate with Ansible: https://github.com/ansible/ansible
