@@ -22,3 +22,13 @@ A list of convenience and productivity apps installed and used daily
 * [Chrome](https://www.google.com/chrome/)
 * [Obsidian](https://obsidian.md/)
 * [Hidden Bar](https://github.com/dwarvesf/hidden)`
+* [Touch Switcher](https://hazeover.com/touchswitcher.html)
+* [Clockify](https://clockify.me/mac-time-tracking)
+* [GitHub Desktop](https://desktop.github.com/)
+* [Alt Tab](https://github.com/lwouis/alt-tab-macos)
+* [Microsoft Office](https://www.microsoft.com/en-US/microsoft-365/mac/microsoft-365-for-mac)
+* [tyke](https://tyke.app/)
+* [routine](https://www.routine.co/apps)
+* [Night Owl](https://nightowl.kramser.xyz/#)
+* [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+* [Just Focus](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)
