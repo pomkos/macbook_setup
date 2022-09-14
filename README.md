@@ -32,3 +32,6 @@ A list of convenience and productivity apps installed and used daily
 * [Night Owl](https://nightowl.kramser.xyz/#)
 * [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
 * [Just Focus](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)
+* [Penc](https://deniz.co/penc/)
+* [iTerm](https://iterm2.com/downloads.html)
+* [warp](https://www.warp.dev/)
