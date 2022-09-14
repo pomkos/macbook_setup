@@ -1,6 +1,6 @@
 # Pete's Awesome Macbook Setup
 
-A list of convenience and productivity apps installed and used daily
+A list of convenience and productivity apps installed and used, many from [this repo](https://github.com/phmullins/awesome-macos).
 
 ## Apps
 ### Brew code
