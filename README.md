@@ -2,6 +2,26 @@
 
 A list of convenience and productivity apps installed and used daily
 
+## Brew code
+
+```
+brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 itsycal jamovi kindle meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
+
+brew install magic-wormhole
+```
+
+## Not in brew
+
+inshot
+just focus
+menubarx
+onething
+quicknote
+routine
+vn video editor
+
+## All apps:
+
 * [Alt Tab](https://github.com/lwouis/alt-tab-macos)
 * [Bitwarden](https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12)
 * [Chrome](https://www.google.com/chrome/)
@@ -10,7 +30,7 @@ A list of convenience and productivity apps installed and used daily
 * [GitHub Desktop](https://desktop.github.com/)
 * [Hidden Bar](https://github.com/dwarvesf/hidden)`
 * [inShot](https://apps.apple.com/ua/app/inshot-video-editor/id997362197)
-* [iTerm](https://iterm2.com/downloads.html)
+* [iTerm2](https://iterm2.com/downloads.html)
 * [itsybar](https://www.mowglii.com/itsycal/)
 * [jamovi](https://www.jamovi.org/)
 * [Just Focus](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)
@@ -35,4 +55,5 @@ A list of convenience and productivity apps installed and used daily
 * [VN Video Editor](https://apps.apple.com/us/app/vn-video-editor/id1494451650?mt=12)
 * [VScode](https://code.visualstudio.com/Download)
 * [warp](https://www.warp.dev/)
+* [wormhole](https://er.run/)
 
