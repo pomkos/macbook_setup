@@ -6,6 +6,10 @@ A list of convenience and productivity apps installed and used, many found thank
 ### Brew code
 
 ```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+```
 brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
 itsycal jamovi kindle meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc 
 shottr spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
