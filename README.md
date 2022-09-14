@@ -8,7 +8,7 @@ A list of convenience and productivity apps installed and used, many found thank
 ```
 brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
 itsycal jamovi kindle meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc 
-spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
+shottr spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
 
 brew install magic-wormhole
 ```
@@ -53,6 +53,7 @@ vn video editor
 | [Penc](https://deniz.co/penc/)| window manager using trackpad| `#convenience` 
 | [Quick Note Pro](https://apps.apple.com/us/app/quick-note-one-click-notes/id1472935217?mt=12) | sticky notes on your desktop| `#life`
 | [routine](https://www.routine.co/apps)| notion alternative| `#life` 
+| [Shottr](https://shottr.cc/)| screenshot app with better shortcuts, editing| `#life`
 | [Spotify](https://spotify.com)| | `#life`
 | [Telegram](https://desktop.telegram.org/)| | `#life`
 | [Tiles](https://freemacsoft.net/tiles/) | window manager, cloning the Windows 10 functionality| `#convenience`
