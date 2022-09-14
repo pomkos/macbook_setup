@@ -23,6 +23,7 @@ Need to download from website
 
 inshot
 just focus
+logi options
 menubarx
 onething
 quicknote
@@ -47,6 +48,7 @@ vn video editor
 | [Just Focus](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)| pomodoro timer| `#dev` 
 | [Kindle](https://apps.apple.com/us/app/kindle/id405399194?mt=12)| all Kindle books| `#life` 
 | [Krisp](https://krisp.ai)| filters background noise, including chatter, from your mic and speaker| `#dev`
+| [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html)| customize Logi Anywhere 3 mouse actions| `#convenience`
 | [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12)| shortcut your next meeting in the statusbar| `#convenience` 
 | [MenubarX](https://apps.apple.com/us/app/menubarx/id1575588022?mt=12)| add websites to the statusbar| `#convenience` 
 | [Microsoft Office](https://www.microsoft.com/en-US/microsoft-365/mac/microsoft-365-for-mac)| |`#life`
@@ -80,6 +82,7 @@ vn video editor
 * Dock: auto hide
 * Clock in menubar: never show date; analog
 * Battery: show percentage
+* Logi Options+: middle button for gestures; side top button for next music; side bottom button for pause/play
 
 ## Todo
 
