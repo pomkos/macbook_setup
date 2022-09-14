@@ -11,7 +11,7 @@ A list of convenience and productivity apps installed and used, many found thank
 
 ```
 brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
-itsycal jamovi kindle krisp meetingbar microsoft-office microsoft-teams nextcloud nightowl obsidian openinterminal penc 
+itsycal jamovi kindle krisp meetingbar microsoft-office microsoft-teams nextcloud nightowl notion obsidian openinterminal penc 
 shottr spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
 
 brew install magic-wormhole
@@ -55,6 +55,7 @@ vn video editor
 | [Microsoft Teams]()|https://www.microsoft.com/en-us/microsoft-teams/download-app#desktopAppDownloadregion| `#dev`
 | [Nextcloud](https://nextcloud.com/install/#install-clients)| google docs, but open source and synced to your own server| `#life` 
 | [Night Owl](https://nightowl.kramser.xyz/#)| control nightshift and darkmode on a schedule and app basis| `#convenience` 
+| [Notion](https://notion.so)| | `#life`
 | [Obsidian](https://obsidian.md/)| open source notion alternative using markdown files| `#life` 
 | [One Thing](https://apps.apple.com/us/app/one-thing/id1604176982?mt=12)| that one thing you need to do, in the status bar| `#convenience` 
 | [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)| browse folders in explorer, open terminal there| `#convenience` 
