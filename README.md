@@ -11,7 +11,7 @@ A list of convenience and productivity apps installed and used, many found thank
 
 ```
 brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
-itsycal jamovi kindle meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc 
+itsycal jamovi kindle krisp meetingbar microsoft-office nextcloud nightowl obsidian openinterminal penc 
 shottr spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
 
 brew install magic-wormhole
@@ -46,6 +46,7 @@ vn video editor
 | [jamovi](https://www.jamovi.org/)| stats software like R and SPSS| `#dev` 
 | [Just Focus](https://apps.apple.com/us/app/just-focus/id1142151959?mt=12)| pomodoro timer| `#dev` 
 | [Kindle](https://apps.apple.com/us/app/kindle/id405399194?mt=12)| all Kindle books| `#life` 
+| [Krisp](https://krisp.ai)| filters background noise, including chatter, from your mic and speaker| `#dev`
 | [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12)| shortcut your next meeting in the statusbar| `#convenience` 
 | [MenubarX](https://apps.apple.com/us/app/menubarx/id1575588022?mt=12)| add websites to the statusbar| `#convenience` 
 | [Microsoft Office](https://www.microsoft.com/en-US/microsoft-365/mac/microsoft-365-for-mac)| |`#life`
