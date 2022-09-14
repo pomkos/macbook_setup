@@ -52,7 +52,7 @@ vn video editor
 | [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12)| shortcut your next meeting in the statusbar| `#convenience` 
 | [MenubarX](https://apps.apple.com/us/app/menubarx/id1575588022?mt=12)| add websites to the statusbar| `#convenience` 
 | [Microsoft Office]( https://www.microsoft.com/en-US/microsoft-365/mac/microsoft-365-for-mac)| |`#life`
-| [Microsoft Teams]()|https://www.microsoft.com/en-us/microsoft-teams/download-app#desktopAppDownloadregion| `#dev`
+| [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app#desktopAppDownloadregion)| | `#dev`
 | [Nextcloud](https://nextcloud.com/install/#install-clients)| google docs, but open source and synced to your own server| `#life` 
 | [Night Owl](https://nightowl.kramser.xyz/#)| control nightshift and darkmode on a schedule and app basis| `#convenience` 
 | [Notion](https://notion.so)| | `#life`
