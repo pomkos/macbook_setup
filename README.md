@@ -10,7 +10,7 @@ A list of convenience and productivity apps installed and used, many found thank
 ```
 
 ```
-brew install --cask alt-tab bitwarden google-chrome clockify firefox github hiddenbar iterm2 
+brew install --cask alt-tab balance-lock bitwarden google-chrome clockify firefox github hiddenbar iterm2 
 itsycal jamovi kindle krisp meetingbar microsoft-office microsoft-teams nextcloud nightowl notion obsidian openinterminal penc 
 shottr spotify telegram-desktop tiles touchswitcher tyke visual-studio-code warp 
 
@@ -35,6 +35,7 @@ vn video editor
 | App | Description | Tag|
 |------| ----- | ----- |
 | [Alt Tab](https://github.com/lwouis/alt-tab-macos)| ctrl+tab to switch between windows, not just apps| `#convenience` 
+| [Balance Lock](https://apps.apple.com/us/app/balance-lock/id1019371109?mt=12)| fixes bug where changing volume via touch bar will mess up the audio L/R balance | `#life`
 | [Bitwarden](https://apps.apple.com/us/app/bitwarden/id1352778147?mt=12)| password manager| `#life` 
 | [Chrome](https://www.google.com/chrome/)| for testing sites when firefox is *too| secure| `#life` 
 | [Clockify](https://clockify.me/mac-time-tracking)| time tracking for work| `#dev` 
