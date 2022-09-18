@@ -21,14 +21,14 @@ brew install magic-wormhole
 
 Need to download from website
 
-inshot
-just focus
-logi options
-menubarx
-onething
-quicknote
-routine
-vn video editor
+* inshot
+* just focus
+* logi options
+* menubarx
+* onething
+* quicknote
+* routine
+* vn video editor
 
 ### All apps:
 
